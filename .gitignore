@@ -2,4 +2,4 @@
 venv
 data
 .directory
-
+__pycache__/
