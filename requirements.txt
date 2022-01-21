@@ -20,7 +20,7 @@ extract-msg==0.23.1
 IMAPClient==2.1.0
 importlib-metadata==2.0.0
 ipykernel==5.3.4
-ipython==7.18.1
+ipython==7.31.1
 ipython-genutils==0.2.0
 ipywidgets==7.5.1
 jedi==0.17.2
