@@ -1,4 +1,4 @@
-﻿argcomplete==1.10.0
+argcomplete==1.10.0
 argon2-cffi==20.1.0
 async-generator==1.10
 attrs==20.2.0
@@ -59,7 +59,7 @@ pycparser==2.20
 pycryptodome==3.9.8
 Pygments==2.7.4
 pyparsing==2.4.7
-PyPDF2==1.27.5
+PyPDF2==1.27.9
 pyrsistent==0.17.3
 python-dateutil==2.8.1
 python-pptx==0.6.18
